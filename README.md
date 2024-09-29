@@ -1,19 +1,14 @@
-- 👋 Hi, I’m @adarshbattu109
-I'm working as a Senior QA. 
-Having 11+ years of experience across all phases of SDLC
-Worked Domains: Telecom, Investment Banking, Rail Automation and Infotainment
-Associated Organisations like TCS, Capgemini, Siemens
-Currently associated with Cerence
+# 🌟 Hello, World! 🌟
 
-- 👀 I’m interested in
-Python, Automation in General, Functional and Automation Testing, Tools Development
+- 👋 Hi, I am a Adarsh Battu, a seasoned IT professional with over 12 years of experience across diverse domains, including Telecom, Wealth Management, Investment Management, Blockchain, Financial Risk, Rail Automation, and Automotive AI. I specialize in Full Stack Development using Python, FastAPI, and Streamlit.
 
-- 🌱 I’m currently learning
-Pandas with Python
+- 👀 **I’m interested in** exploring new technologies, automation frameworks, CI/CD practices, and optimizing AI-driven applications to enhance operational efficiency.
 
-- 💞️ I’m looking to collaborate on
+- 🌱 **I’m currently learning** advanced CI/CD practices and enhancing my skills in cloud technologies to streamline deployment processes and improve software delivery cycles.
 
-- 📫 How to reach me ...
+- 💞️ **I’m looking to collaborate on** innovative projects that push the boundaries of technology, particularly in automation, software development, and quality assurance.
+
+- 📫 **How to reach me**: Feel free to connect with me here on GitHub or reach out via LinkedIn! Let’s shape the future of technology together!
 
 <!---
 adarshbattu109/adarshbattu109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
