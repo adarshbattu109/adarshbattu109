@@ -8,7 +8,7 @@
 
 - 💞️ **I’m looking to collaborate on** innovative projects that push the boundaries of technology, particularly in automation, software development, and quality assurance.
 
-- 📫 **How to reach me**: Feel free to connect with me here on GitHub or reach out via LinkedIn! Let’s shape the future of technology together!
+- 📫 **How to reach me**: Feel free to connect with me here on GitHub or reach out via [LinkedIn](https://www.linkedin.com/in/adarshbattu)! Let’s shape the future of technology together!
 
 <!---
 adarshbattu109/adarshbattu109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
